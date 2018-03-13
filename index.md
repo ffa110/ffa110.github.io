@@ -73,5 +73,10 @@ The features and functionalities that will be created in the first checkpoint ar
      * The application will be ready
 
 ## Project Justification:
-.Novelty - why is your project different than existing applications, and why should people use it?b.
-Complexity - why is this project a good showcase of your abilities?
+
+- **Novelty** 
+
+The project, "Social Media Manager", will bring convienience and easiness to users who have accounts in muliple Social Media Platforms. The project is not a Social Media Platform, however, it will be a powerfull tool that enables users to manage and monitor their Social Media accounts in a centralized application. It will bring many advantages to users such lower cost in terms of time, higher productivity and appearance in social media with no cost in terms of money since the application will be free. Therefore, the competitive advantage of the application will be the ease-of-use, simplicity and no cost.
+
+- **Complexity**
+This project will challenge me to apply the skills I learned in the IST 411 course as well as explore new technologies to expand my experience. Those new technologies that I will be exploring while creating the project are, integrating other services with the project using APIs, using Bootstrap to crete responsive interface, securing users data through encryption and hashing, and more importantly it is not very compelix based on my skills, which will allow me to meet the deadlines and finish the project by the due dates.
