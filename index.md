@@ -13,10 +13,12 @@ Social Media platforms became very popular since the last 10 years.
 Spring MVC is a powerfull Java framework that helps in creating web application in an easy and convientient way. Therefore, this framework will be used in this project to create the structure and the functionality of the application. 
 
 - **Bootstrap:**
-Bootstrap is a powerfull open-source toolkit that allows developers to create responsive interfaces with HTML, CSS, and JavaScript. It adds an advantage to the application which is allowing the application to be responsive when minimizing the page, or used in phone web-browser. That increases the usability of the application as well as making it easy and interactive for users.
+Bootstrap is a powerfull open-source toolkit that allows developers to create responsive interfaces with HTML, CSS, and JavaScript. It will be used in this project in the fron-end. It adds an advantage to the application which is allowing the application to be responsive when minimizing the page, or used in phone web-browser. That increases the usability of the application as well as making it easy and interactive for users.
 
 - **MySQL Database**
+MySQL database is a reliable and powerful database that will allow the application to store user information such as usernames, passwords, posts, and logs. Therefore, MySQL database will be used in this application to ensure the presistency and reusability of the application.
 
+- **Object Relational Mapping (ORM):**
 
 
 - **Social Media APIs:**
