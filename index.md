@@ -17,11 +17,17 @@ Users who do not have an account in the website will be able to use this use cas
 
 #### Login To User Account:
 
-Whem the user first visits the website, the system will prompt the user to login to the master user account that controls other social media accounts. This use case will include another use case, which is Create New Account as an optional use case to make sure that users who have not registered in the website are able to create accounts through this use case.
+When the user first visits the website, the system will prompt the user to login to the master user account that controls other social media accounts. This use case will include another use case, which is Create New Account as an optional use case to make sure that users who have not registered in the website are able to create accounts through this use case.
 
+#### Create Post:
 
+This use case is an important use case for this project because it is a big part of the idea of creating this project
 
 
 ### Project Schedule:
 
+what will you have done at each checkpoint? What will the final project look like?
+
 ### Project Justification:
+.Novelty - why is your project different than existing applications, and why should people use it?b.
+Complexity - why is this project a good showcase of your abilities?
