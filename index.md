@@ -11,7 +11,7 @@ Social Media platforms became very popular since the last 10 years.
 
 #### The Project's use cases
 
--  list **Create New Account:** 
+- **Create New Account:** 
 
 Users who do not have an account in the website will be able to use this use case to create a new account so they can use the website's services.
 
