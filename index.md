@@ -80,4 +80,4 @@ The project, "Social Media Manager", will bring convienience and easiness to use
 
 - **Complexity**
 
-This project will challenge me to apply the skills I learned in the IST 411 course as well as explore new technologies to expand my experience. Those new technologies that I will be exploring while creating the project are, integrating other services with the project using APIs, using Bootstrap to crete responsive interface, securing users data through encryption and hashing, and more importantly it is not very compelix based on my skills, which will allow me to meet the deadlines and finish the project by the due dates.
+This project will challenge me to apply the skills I learned in the IST 411 course as well as to explore new technologies to expand my experience. Those new technologies that I will be exploring while creating the project are, integrating other services with the project using APIs, using Bootstrap to crete responsive interface, securing users data through encryption and hashing, and more importantly it is not very compelix based on my skills, which will allow me to meet the deadlines and finish the project by the due dates.
