@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The project aims to bring convienience and easiness to users who have accounts in multiple social media platforms to manage them in a centralized application. Social Media platforms play an imprtant role in the success of organization, as well as allowing people to share their ideas, feelings, or moments. However, for those who have accounts in multiple social media platforms such as Twitter, Instagram, Facebook, Tumblr or other platform might struggle with managing each social media account due to time and extra effor. Therefore, this application will solve this complexity by integrating the popular Social Media Platforms in one application and allowing users to manage easily through one solution, which is the Social Media Manager.
+The project aims to bring convienience and easiness to users who have accounts in multiple social media platforms to manage them in a centralized application. Social Media platforms play an imprtant role in the success of organization in terms of marketing and communication with customers, as well as allowing people to share their ideas, feelings, or moments. However, for those who have accounts in multiple social media platforms such as Twitter, Instagram, Facebook, Tumblr or other platform might struggle with managing each social media account due to time and extra effor. Therefore, this application will solve this complexity by integrating the popular Social Media Platforms in one application and allowing users to manage easily through one solution, which is the Social Media Manager.
 
 ## Project Design
 
