@@ -50,6 +50,7 @@ This use case will allow the user to view his/her timeline of all selected socia
 what will you have done at each checkpoint? What will the final project look like?
 
 - **Checkpoint 1:**
+
 -- Interface
 -- Login
 -- Database connection
