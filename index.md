@@ -51,9 +51,9 @@ what will you have done at each checkpoint? What will the final project look lik
 
 - **Checkpoint 1:**
 
-* Interface
-* Login
-*  Database connection
+     * Interface
+     * Login
+     *  Database connection
 
 - **Checkpoint 2:**
 - **Checkpoint 3:**
