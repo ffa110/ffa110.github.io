@@ -50,13 +50,27 @@ This use case will allow the user to view his/her timeline of all selected socia
 what will you have done at each checkpoint? What will the final project look like?
 
 - **Checkpoint 1:**
+The features and functionalities that will be created in the first checkpoint are the following
 
-     * Interface
-     * Login
-     *  Database connection
-
+     * The interface of the application
+        * User Registeration (page)
+        * Login (page)
+        * Create Post (page)
+        * View My Social Media Timelines (page)
+     * User will be able to create an account   
+     * User will be able to login to the master account on the "Social Media Manager"
+     * The application will be connected to the database (MySQL)
+     * The application will have the ORM working
+     
 - **Checkpoint 2:**
+     * The application will be able to hash users' passwords and encrypt and decrypt their data.
+     * The application will be able to call the appropriate APIs
+     * The application will be able to create posts and view timelines
+     
+     
 - **Checkpoint 3:**
+     * The application will be installed on a server
+     * The application will be ready
 
 ## Project Justification:
 .Novelty - why is your project different than existing applications, and why should people use it?b.
