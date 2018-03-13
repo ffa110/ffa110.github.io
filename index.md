@@ -19,11 +19,11 @@ Bootstrap is a powerfull open-source toolkit that allows developers to create re
 MySQL database is a reliable and powerful database that will allow the application to store user information such as usernames, passwords, posts, and logs. Therefore, MySQL database will be used in this application to ensure the presistency and reusability of the application.
 
 - **Object Relational Mapping (ORM):**
-
+The Object RElational Mapping is a technique that allows to convert and manage database data from an object-oriented programming. It allows the developer to easily store data and write queries and interact with the database using the programming language. Therefore, ORM will be used in this project to interact with the database using Java programming language.
 
 - **Social Media APIs:**
 
-Social Media Platforms provide APIs to allow developers to integrate their application with other services. Those APIs allow developers to pull information and verify users using the services that Social Media Application provide. Therefore, the APIs will be used in this project to authenticate users' accounts, create posts, view timelines and to call other services that could help users to manage their accounts.
+Social Media Platforms provide APIs to allow developers to integrate their application with other services. Those APIs allow developers to pull information and verify users using the services that Social Media Application provide. Therefore, the APIs will be used in this project to authenticate users' accounts, create posts, view timelines and to call other services that could help users to manage their accounts. Those APIs provide different HTTP methods such as POST and GET allowing the application to interact with the Social Media Application.
 
 
 #### The Project's use cases
