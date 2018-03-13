@@ -9,6 +9,21 @@ Social Media platforms became very popular since the last 10 years.
 
 #### Technologies will be used:
 
+- **Spring MVC**
+Spring MVC is a powerfull Java framework that helps in creating web application in an easy and convientient way. Therefore, this framework will be used in this project to create the structure and the functionality of the application. 
+
+- **Bootstrap**
+Bootstrap is a powerfull open-source toolkit that allows developers to create responsive interfaces with HTML, CSS, and JavaScript. It adds an advantage to the application which is allowing the application to be responsive when minimizing the page, or used in phone web-browser. That increases the usability of the application as well as making it easy and interactive for users.
+
+- **MySQL Database**
+
+
+
+- **Social Media APIs**
+
+Social Media Platforms provide APIs to allow developers to integrate their application with other services. Those APIs allow developers to pull information and verify users using the services that Social Media Application provide. Therefore, the APIs will be used in this project to authenticate users' accounts, create posts, view timelines and to call other services that could help users to manage their accounts.
+
+
 #### The Project's use cases
 
 - **Create New Account:** 
