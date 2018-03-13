@@ -49,6 +49,14 @@ This use case will allow the user to view his/her timeline of all selected socia
 
 what will you have done at each checkpoint? What will the final project look like?
 
+- **Checkpoint 1:**
+-- Interface
+-- Login
+-- Database connection
+
+- **Checkpoint 2:**
+- **Checkpoint 3:**
+
 ## Project Justification:
 .Novelty - why is your project different than existing applications, and why should people use it?b.
 Complexity - why is this project a good showcase of your abilities?
