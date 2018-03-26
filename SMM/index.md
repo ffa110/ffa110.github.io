@@ -52,23 +52,26 @@ what will you have done at each checkpoint? What will the final project look lik
 - **Checkpoint 1:**
 The features and functionalities that will be created in the first checkpoint are the followings
 
-     * The interface of the application
-        * User Registration (page)
-        * Login (page)
-        * Create Post (page)
-        * View My Social Media Timelines (page)
      * User will be able to create an account   
      * User will be able to login to the master account on the "Social Media Manager"
      * The application will be connected to the database (MySQL)
      * The application will have the ORM working
      
 - **Checkpoint 2:**
-     * The application will be able to hash users' passwords and encrypt and decrypt their data.
-     * The application will be able to call the appropriate APIs
-     * The application will be able to create posts and view timelines
+     * The interface of the application
+        * User Registration (page)
+        * Login (page)
+        * Create Post (page)
+        * View My Social Media Timelines (page)
      
      
 - **Checkpoint 3:**
+     * The application will be able to call the appropriate APIs
+     * The application will be able to hash users' passwords and encrypt and decrypt their data.
+     
+     
+- **Final Checkpoint:**    
+     * The application will be able to create posts and view timelines
      * The application will be installed on a server
      * The application will be ready
 
